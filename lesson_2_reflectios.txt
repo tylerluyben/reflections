@@ -1,0 +1,8 @@
+What happens when you initialize a repository? 
+
+Git makes a hidden folder so you can get started creating the repository whenever you're ready.
+
+Why do you need to do it?
+
+This is the only way to start a repository. Git doesn't put every file in that folder into the repository because you may not want that.  It waits for you.
+
