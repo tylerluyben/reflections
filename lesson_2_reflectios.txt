@@ -6,3 +6,11 @@ Why do you need to do it?
 
 This is the only way to start a repository. Git doesn't put every file in that folder into the repository because you may not want that.  It waits for you.
 
+How is the staging area different from the working directory and the repository? 
+
+The staging area is an intermediate step where you can get all your ducks in a row before finalizing a commit.
+
+What value do you think it offers?
+
+It allows you to include some files but not others from the working directory in the commit.
+
