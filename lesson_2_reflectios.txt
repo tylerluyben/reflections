@@ -18,3 +18,7 @@ How can you use the staging area to make sure you have one commit per logical ch
 
 The staging area lets you commit only one file at a time, so you can add a changed file and label the change for only that file.
 
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+Its great if you want development snapshots and then official versions
+
