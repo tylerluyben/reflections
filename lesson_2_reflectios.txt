@@ -22,3 +22,6 @@ What are some situations when branches would be helpful in keeping your history 
 
 Its great if you want development snapshots and then official versions
 
+How do the diagrams help you visualize the branch structure?
+
+It allows you to see which commits are reachable and which are dead-ends
