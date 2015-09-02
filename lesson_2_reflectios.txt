@@ -14,3 +14,7 @@ What value do you think it offers?
 
 It allows you to include some files but not others from the working directory in the commit.
 
+How can you use the staging area to make sure you have one commit per logical change?
+
+The staging area lets you commit only one file at a time, so you can add a changed file and label the change for only that file.
+
