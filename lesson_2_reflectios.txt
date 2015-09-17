@@ -25,3 +25,7 @@ Its great if you want development snapshots and then official versions
 How do the diagrams help you visualize the branch structure?
 
 It allows you to see which commits are reachable and which are dead-ends
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+Merging two branches results in a new files that has the features of an independently developed feature with no conflicts.  We represent it in the diagram as two branches coming together in order to visualize what's going on.
