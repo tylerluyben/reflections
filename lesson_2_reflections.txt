@@ -33,3 +33,7 @@ Merging two branches results in a new files that has the features of an independ
 What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
 
 Git will find all the code that is the same and keep it that way.  If it detects a conflict in the same section it doesn't try to rise above its station and fix it since that would lead to bugs.
+
+Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
+
+For the same reason you do manual commits, you want to be able to easily track your changes and fix things if they break.  If you automatically updated your remote when the GitHub files updated it could lead to problems.
