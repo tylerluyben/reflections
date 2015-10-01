@@ -37,3 +37,8 @@ Git will find all the code that is the same and keep it that way.  If it detects
 Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 
 For the same reason you do manual commits, you want to be able to easily track your changes and fix things if they break.  If you automatically updated your remote when the GitHub files updated it could lead to problems.
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+Fork is when you don't have permission to push to someone else's project, and clone is when you do.  Branch is when you want to make some kind of new feature in parallel and merge the changes later.
+
