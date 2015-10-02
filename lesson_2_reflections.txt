@@ -42,3 +42,7 @@ Describe the differences between forks, clones, and branches. When would you use
 
 Fork is when you don't have permission to push to someone else's project, and clone is when you do.  Branch is when you want to make some kind of new feature in parallel and merge the changes later.
 
+What is the benefit of having a copy of the last known state of the remote stored locally?
+
+In case of conflicts you can see the last copy of when the branches were synced up.  Branching doesn't seem to be possible if more than one person are editing the same repository.  The way to branch in GitHub is to fork, so they should fork instead of updating my shit lol.
+
