@@ -46,3 +46,7 @@ What is the benefit of having a copy of the last known state of the remote store
 
 In case of conflicts you can see the last copy of when the branches were synced up.  Branching doesn't seem to be possible if more than one person are editing the same repository.  The way to branch in GitHub is to fork, so they should fork instead of updating my shit lol.
 
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+You would e-mail files back and forth and it would be hard to keep everything up-to-date and coordinated with all the different versions flying around.  More chances for bugs.
+
