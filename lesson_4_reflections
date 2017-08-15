@@ -1,8 +1,0 @@
-What is the benefit of having a copy of the last known state of the remote stored locally?
-
-	You can work on it without internet access.
-
-How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
-	
-	You could send files around and merge everythig manually.  Definitely a pain and strangers wouldn't be able to offer advice.
-
